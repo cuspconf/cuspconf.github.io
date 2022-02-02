@@ -1,0 +1,1 @@
+the webhome of California Universities Semantics & Pragmatics, an annual student conference series dedicated to providing an informal atmosphere for graduates and undergraduates working in the areas of semantics and pragmatics to share their ideas.
