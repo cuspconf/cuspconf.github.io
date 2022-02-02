@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past
+title: Past Meetings
 permalink: /past/
 ---
 
