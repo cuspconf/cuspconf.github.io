@@ -21,9 +21,9 @@
 title: California Universities Semantics and Pragmatics 
 email: cuspsteering@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The permanent home of California Universities Semantics and Pragmatics,
-  an annual workshop series providing student researchers with a friendly,
-  informal, and collaborative venue to present their work and exchange ideas.
+  The permanent home of CUSP,
+  an annual workshop series providing student researchers with a friendly
+  and collaborative venue to present their work and exchange ideas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "cuspconf.github.io"
 twitter_username: cuspconf
@@ -31,8 +31,8 @@ github_username:  cuspconf
 
 # jekyll Build settings
 markdown: GFM
-  #theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-minimal
+  #theme: minima
 plugins:
   - jekyll-feed
 
