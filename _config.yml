@@ -31,8 +31,8 @@ github_username:  cuspconf
 
 # jekyll Build settings
 markdown: GFM
-theme: jekyll-theme-minimal
-  #theme: minima
+  #theme: jekyll-theme-minimal
+  theme: minima
 plugins:
   - jekyll-feed
 
