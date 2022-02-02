@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Welcome to the home of CUSP!
+
+Established in 2009, CUSP serves as a venue for researchers in semantics and pragmatics to exchange ideas and receive feedback in a small, friendly, collaborative environment.

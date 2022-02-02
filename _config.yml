@@ -29,7 +29,8 @@ url: "cuspconf.github.io"
 twitter_username: cuspconf
 github_username:  cuspconf
 
-# Build settings
+# jekyll Build settings
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
