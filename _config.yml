@@ -28,11 +28,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "cuspconf.github.io"
 twitter_username: cuspconf
 github_username:  cuspconf
-#header_pages:
-# - title: CUSP-13
-#   url: cuspconf.github.io/cusp13
-#
-#  - title: Past Meetings
 
 # jekyll Build settings
 markdown: GFM
