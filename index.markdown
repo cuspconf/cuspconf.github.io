@@ -9,4 +9,4 @@ Welcome to the home of CUSP!
 
 Established in 2009, CUSP serves as a venue for researchers in semantics and pragmatics to exchange ideas and receive feedback in a small, friendly, collaborative environment.
 
-This site is under constrution. Visit the [CUSP-13 website](https://cuspconf.github.io/cusp13 "CUSP-13") for the latest on the next workshop in 2022.
+This site is under construction. Visit the [CUSP-13 website](https://cuspconf.github.io/cusp13 "CUSP-13") for the latest on the next workshop in 2022.
